@@ -1,1 +1,5 @@
 .vs/ 
+x64/
+Debug/
+SDL Pong/x64/
+SDL Pong/Debug/
